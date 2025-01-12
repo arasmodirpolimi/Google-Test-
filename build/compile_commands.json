@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/arsalan/Desktop/google_test/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/tests.dir/test.cpp.o -c /home/arsalan/Desktop/google_test/test.cpp",
+  "file": "/home/arsalan/Desktop/google_test/test.cpp",
+  "output": "CMakeFiles/tests.dir/test.cpp.o"
+}
+]

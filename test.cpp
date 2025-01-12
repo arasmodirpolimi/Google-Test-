@@ -1,7 +1,18 @@
 #include <gtest/gtest.h>
 
-TEST(SampleTest, AddTest) {
-    EXPECT_EQ(1 + 1, 2);
+struct BankAccount
+{
+    /* data */
+    int balance = 0;
+    BankAccount() {
+    };
+    explicit  BankAccount(int balance) : balance(balance) {}        
+};
+
+
+TEST(AccountTest, BankAccountStartsEmpty) {
+    BankAccount account;
+    EXPECT_EQ(0, account .balance);
 }
 
 int main(int argc, char **argv) {

@@ -1,0 +1,4 @@
+/home/arsalan/Desktop/google_test/build/CMakeFiles/tests.dir
+/home/arsalan/Desktop/google_test/build/CMakeFiles/test.dir
+/home/arsalan/Desktop/google_test/build/CMakeFiles/edit_cache.dir
+/home/arsalan/Desktop/google_test/build/CMakeFiles/rebuild_cache.dir
