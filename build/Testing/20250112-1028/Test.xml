@@ -21,11 +21,11 @@
 	TotalVirtualMemory="8192"
 	TotalPhysicalMemory="19753"
 	LogicalProcessorsPerPhysical="2"
-	ProcessorClockFrequency="1800"
+	ProcessorClockFrequency="2400.02"
 	>
 	<Testing>
-		<StartDateTime>Jan 12 12:17 CET</StartDateTime>
-		<StartTestTime>1736680674</StartTestTime>
+		<StartDateTime>Jan 12 15:38 CET</StartDateTime>
+		<StartTestTime>1736692713</StartTestTime>
 		<TestList>
 			<Test>./BankAccountTest</Test>
 		</TestList>
@@ -36,7 +36,7 @@
 			<FullCommandLine>/home/arsalan/Desktop/google_test/build/tests</FullCommandLine>
 			<Results>
 				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.00536385</Value>
+					<Value>0.00281077</Value>
 				</NamedMeasurement>
 				<NamedMeasurement type="numeric/double" name="Processors">
 					<Value>1</Value>
@@ -51,12 +51,12 @@
 					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
 				</NamedMeasurement>
 				<Measurement>
-					<Value encoding="base64" compression="gzip">eJyNkMsKwjAQRff5ilnaRYN+gIuKxYWg0uoqdBE1SrGZlGSi+PdGo6UKQu9qHod5XDHtVEHhEWs8wwRIOYKTNfoTO1+T4kyknSpYNGYvm9hXeK2tQa0wsIpS3/7A/ZnZ4WA80jYUmIBit4KXqn6DzyRe3nlJ0pLLdUv3wEetl4N4GI1Bu2TQLZEFMiSbhA37lZS06dHckIm+k/8cBCuRf+8JD22yssznTwMiy9kDqUp+1Q==</Value>
+					<Value encoding="base64" compression="gzip">eJyNUT0PgkAM3e9XdJQBou4OKMbB+BHQiTCceJqL0CN3PY3/XgRDgETlbW3f68tr41mDBEKLKPEKUyBhyMBFqxwmVQHGShIei90GCawydeJZPRd4l1phLrDkCnJt0SN3ls453vw0VRbpUHZZDOFxCxWS/tBr1RFxTWaZF/QsNTV268EaGI0hN85vuwXHQBTKSNoogX98euTGYGjyWgCkiGcOG3ZeEly7Z/VAFre/9/VroDl6XaMy096PomXwPsBH6LEXjgal7w==</Value>
 				</Measurement>
 			</Results>
 		</Test>
-		<EndDateTime>Jan 12 12:17 CET</EndDateTime>
-		<EndTestTime>1736680674</EndTestTime>
+		<EndDateTime>Jan 12 15:38 CET</EndDateTime>
+		<EndTestTime>1736692713</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

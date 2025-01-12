@@ -1,28 +1,30 @@
-Start testing: Jan 12 12:17 CET
+Start testing: Jan 12 15:38 CET
 ----------------------------------------------------------
 1/1 Testing: BankAccountTest
 1/1 Test: BankAccountTest
 Command: "/home/arsalan/Desktop/google_test/build/tests"
 Directory: /home/arsalan/Desktop/google_test/build
-"BankAccountTest" start time: Jan 12 12:17 CET
+"BankAccountTest" start time: Jan 12 15:38 CET
 Output:
 ----------------------------------------------------------
-[==========] Running 1 test from 1 test suite.
+[==========] Running 2 tests from 1 test suite.
 [----------] Global test environment set-up.
-[----------] 1 test from AccountTest
-[ RUN      ] AccountTest.BankAccountStartsEmpty
-[       OK ] AccountTest.BankAccountStartsEmpty (0 ms)
-[----------] 1 test from AccountTest (0 ms total)
+[----------] 2 tests from BankAccountTest
+[ RUN      ] BankAccountTest.BankAccountStartsEmpty
+[       OK ] BankAccountTest.BankAccountStartsEmpty (0 ms)
+[ RUN      ] BankAccountTest.CanDepositMoeny
+[       OK ] BankAccountTest.CanDepositMoeny (0 ms)
+[----------] 2 tests from BankAccountTest (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 1 test.
+[==========] 2 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 2 tests.
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"BankAccountTest" end time: Jan 12 12:17 CET
+"BankAccountTest" end time: Jan 12 15:38 CET
 "BankAccountTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Jan 12 12:17 CET
+End testing: Jan 12 15:38 CET
